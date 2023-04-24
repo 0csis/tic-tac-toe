@@ -50,4 +50,10 @@ body {
 #x,
 #o {
   border: solid 0.1rem grey;
+  cursor: pointer;
+}
+
+.yes,
+.no {
+  width: 4rem;
 }
